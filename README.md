@@ -22,7 +22,7 @@
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=josenunezvilela&show_icons=true&theme=radical)
 
 ---
 
