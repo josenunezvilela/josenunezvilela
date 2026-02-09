@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Jose 👋
 ### Desarrollador Backend Junior | Entusiasta de Python
 
 ¡Bienvenido a mi perfil! Soy un programador que está actualmente estudiando ingeniería informática enfocado en crear soluciones lógicas y eficientes. Actualmente estoy trabajando en mejorar mis habilidades en desarrollo de bots y automatización.
